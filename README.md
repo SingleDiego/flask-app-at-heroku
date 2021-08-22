@@ -35,11 +35,11 @@ DATABASE_URL: postgres://uqyxkahrktzbdo...@.amazonaws.com:5432/d96...
 
 除了在命令行查看外，在 heroko 的应用管理页面的 ``Resources`` 选项中我们也可以看到创建的数据库。
 
-![](https://upload-images.jianshu.io/upload_images/2070024-30e155524b625841.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![](https://github.com/SingleDiego/flask-app-at-heroku/blob/main/IMG/01.png)
 
 点击数据库管理页面后选择 ``Setting / Database Credentials``，在这里我们也可以查看到包括数据库地址在内的相关信息。
 
-![](https://upload-images.jianshu.io/upload_images/2070024-f2a1c486a4929cee.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![](https://github.com/SingleDiego/flask-app-at-heroku/blob/main/IMG/02.png)
 
 
 <br>
